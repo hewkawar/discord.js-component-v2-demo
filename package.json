@@ -1,0 +1,26 @@
+{
+  "name": "discord.js-component-v2-demo",
+  "version": "1.0.0",
+  "description": "DiscordJs Component V2 Demo",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hewkawar/discord.js-component-v2-demo.git"
+  },
+  "keywords": [
+    "discord.js",
+    "componentv2"
+  ],
+  "author": "HewkawAr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hewkawar/discord.js-component-v2-demo/issues"
+  },
+  "homepage": "https://github.com/hewkawar/discord.js-component-v2-demo#readme",
+  "dependencies": {
+    "discord.js": "^14.19.1"
+  }
+}
