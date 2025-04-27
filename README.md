@@ -2,7 +2,7 @@
 
 **Discord Update**
 
-New Component is updated from Discord at 22/4/2025 21:09 GMT
+New Component is updated from Discord at 22/4/2025 21:09 UTC
 
 ![Discord Update](images/01.png)
 
