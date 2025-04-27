@@ -6,7 +6,7 @@ New Component is updated from Discord at 22/4/2025 21:09 GMT
 
 ![Discord Update](images/01.png)
 
-We recreate that message in `discord.js` using [bot.js](bot.js)
+I'm recreate that message using `discord.js` in [bot.js](bot.js)
 
 ![Demo Bot](images/02.png)
 
