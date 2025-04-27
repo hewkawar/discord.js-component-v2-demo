@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/hewkawar/discord.js-component-v2-demo#readme",
   "dependencies": {
-    "discord.js": "^14.19.1"
+    "discord.js": "^14.19.0"
   }
 }
